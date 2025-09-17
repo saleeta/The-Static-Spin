@@ -4,6 +4,14 @@ This project introduces a novel method for transforming static two-dimensional i
 
 ---
 
+## Getting Started
+
+The implementation is available as a Google Colab notebook. You can run the code and experiment with your own images here:
+
+[**Static Spin Illusion Colab Notebook**](https://colab.research.google.com/drive/14vJOBuuu4xQWB9xKOuX6usLK859a9ksG?usp=sharing)
+
+---
+
 ## How it Works
 
 The core of this technique is the combination of several image processing and computer vision concepts:
