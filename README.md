@@ -3,8 +3,7 @@
 This project introduces a novel method for transforming static two-dimensional images into captivating three-dimensional spinning motion illusions. By leveraging phase-shifted filters and AI-generated depth maps, we can create the perception of depth and movement in a static image.
 
 This work has also been awarded first prize worldwide in the ”Illusion of the year” competition 2024 hosted
-yearly by the Neural Correlate Society. The posting can be found here: https://illusionoftheyear.com/
-cat/top-10-finalists/2024/.
+yearly by the Neural Correlate Society. The posting can be found here: https://illusionoftheyear.com/cat/top-10-finalists/2024/.
 
 ---
 
